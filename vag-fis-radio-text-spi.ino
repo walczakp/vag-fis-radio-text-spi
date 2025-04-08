@@ -1,7 +1,6 @@
 #include "VAGFISRadioText.hpp"
 
-#define pinENABLE 5
-VAGFISRadioText LCD(pinENABLE);
+VAGFISRadioText LCD(5);
 
 void setup() {
   LCD.init();
