@@ -1,4 +1,4 @@
-#include "VAGFISRadioText.h"
+#include "VAGFISRadioText.hpp"
 
 VAGFISRadioText::VAGFISRadioText(int enablePin) {
   ena = enablePin;

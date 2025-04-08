@@ -1,4 +1,4 @@
-#include "VAGFISRadioText.h"
+#include "VAGFISRadioText.hpp"
 
 #define pinENABLE 5
 VAGFISRadioText LCD(pinENABLE);
